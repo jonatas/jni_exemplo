@@ -1,1 +1,7 @@
-./build.sh Exemplo
+Para compilar o exemplo no *linux* use:
+
+    ./build.sh Exemplo
+
+ou no OS X use:
+
+    ./build_mac.sh Exemplo
